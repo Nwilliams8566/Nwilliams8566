@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Noah!
+- 👀 I’m interested in programming with high level OOP languages.
+- 🌱 I’m currently learning development with Java.
+- 💞️ I’m looking to collaborate on small projects / game jams!
+- 📫 https://nwilliams8566.itch.io/
